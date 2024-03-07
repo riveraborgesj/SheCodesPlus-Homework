@@ -41,6 +41,9 @@ footer {
   width: 100%;
   line-height: 25px;
   margin-left: 5px;
+  border-radius: 5px;
+  border-color: transparent;
+  background-color: #bc8f5c22;
 }
 .input-2 {
   width: 20%;
