@@ -47,6 +47,10 @@ footer {
   background-color: #bc8f5cd4;
   color: white;
   margin: 0 5px;
+  border-radius: 5px;
+  border-color: transparent;
+  padding: 15px;
+  font-size: 15px;
 }
 .current-weather {
   display: flex;
