@@ -32,9 +32,10 @@ footer {
 }
 .floating-box {
   background-color: white;
-  margin: 40px 50px;
-  padding: 20px;
+  margin: 60px auto;
+  padding: 30px;
   border-radius: 10px;
+  max-width: 600px;
 }
 .input-1 {
   width: 100%;
